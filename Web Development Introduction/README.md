@@ -16,7 +16,6 @@
 
 ### Types of Websites (Static, Dynamic and Responsive) : [Detailed Explanation]()
 
-### Developer options of Browser (View page source, Developer Tools, Inspect Element 
-etc) : [Detailed Explanation]()
+### Developer options of Browser (View page source, Developer Tools, Inspect Element etc) : [Detailed Explanation]()
 
 ### Need of cyber security & IT Laws : [Detailed Explanation]()
