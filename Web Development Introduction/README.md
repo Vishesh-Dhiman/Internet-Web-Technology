@@ -1,21 +1,21 @@
 # Chapter 1 : Web Development Introduction (06 Periods)
 
-### Internet : [Detailed Explanation]()
+### Internet : [Learn]()
 
-### WWW : [Detailed Explanation]()
+### WWW : [Learn]()
 
-### Browser : [Detailed Explanation]()
+### Browser : [Learn]()
 
-### Search engine Client Server Model : [Detailed Explanation]()
+### Search engine Client Server Model : [Learn]()
 
-### URL : [Detailed Explanation]()
+### URL : [Learn]()
 
-### Web Pages : [Detailed Explanation]()
+### Web Pages : [Learn]()
 
-### Website and Web Services : [Detailed Explanation]()
+### Website and Web Services : [Learn]()
 
-### Types of Websites (Static, Dynamic and Responsive) : [Detailed Explanation]()
+### Types of Websites (Static, Dynamic and Responsive) : [Learn]()
 
-### Developer options of Browser (View page source, Developer Tools, Inspect Element etc) : [Detailed Explanation]()
+### Developer options of Browser (View page source, Developer Tools, Inspect Element etc) : [Learn]()
 
-### Need of cyber security & IT Laws : [Detailed Explanation]()
+### Need of cyber security & IT Laws : [Learn]()
