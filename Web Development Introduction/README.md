@@ -1,6 +1,6 @@
 # Chapter 1 : Web Development Introduction (06 Periods)
 
-### Internet : [Learn]()
+### Internet : [Learn](https://github.com/Vishesh-Dhiman/Internet-Web-Technology/blob/main/Web%20Development%20Introduction/internet.md)
 
 ### WWW : [Learn]()
 
